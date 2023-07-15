@@ -3,6 +3,7 @@
 
 # Used Libraries
 tailwindcss: to provide css in js styling
+React Router DOM: to create page navigation
 
 # Pages
 consists of 4 pages (the global and detail page), namely:
