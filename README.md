@@ -2,8 +2,8 @@
 [Starship in Star wars](https://starwars-starship-list.netlify.app/) is powered by [swapi.dev](https://swapi.dev/) to serve starship in starwars
 
 # Used Libraries
-tailwindcss: to provide css in js styling
-React Router DOM: to create page navigation
+- tailwindcss: to provide css in js styling
+- React Router DOM: to create page navigation
 
 # Pages
 consists of 4 pages (the global and detail page), namely:
