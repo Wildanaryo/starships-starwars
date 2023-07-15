@@ -9,6 +9,6 @@ consists of 4 pages (the global and detail page), namely:
 1. homepage
 2. pageStarship
 3. StarshipDetails
-4. Searc
+4. Search
 
 
