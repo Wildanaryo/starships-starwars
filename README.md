@@ -4,7 +4,7 @@
 # Used Libraries
 tailwindcss: to provide css in js styling
 
-#Pages
+# Pages
 consists of 4 pages (the global and detail page), namely:
 1. homepage
 2. pageStarship
