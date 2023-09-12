@@ -1,5 +1,5 @@
 # Starship in Star Wars
-[Starship in Star wars](https://starwars-bywildanaryo.netlify.app/) is powered by [swapi.dev](https://swapi.dev/) to serve starship in starwars
+[Starship in Star wars](https://starships-starwars.vercel.app/) is powered by [swapi.dev](https://swapi.dev/) to serve starship in starwars
 
 # Used Libraries
 - tailwindcss: to provide css in js styling
